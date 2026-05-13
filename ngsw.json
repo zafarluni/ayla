@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778700772843,
+  "timestamp": 1778702497572,
   "index": "/ayla/index.html",
   "assetGroups": [
     {
@@ -77,17 +77,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ayla/assets/icon/favicon.png",
-        "/ayla/assets/icons/icon-128x128.png",
-        "/ayla/assets/icons/icon-144x144.png",
-        "/ayla/assets/icons/icon-152x152.png",
+        "/ayla/assets/icons/apple-touch-icon.png",
+        "/ayla/assets/icons/favicon.png",
         "/ayla/assets/icons/icon-192x192.png",
-        "/ayla/assets/icons/icon-256x256.png",
-        "/ayla/assets/icons/icon-384x384.png",
-        "/ayla/assets/icons/icon-48x48.png",
         "/ayla/assets/icons/icon-512x512.png",
-        "/ayla/assets/icons/icon-72x72.png",
-        "/ayla/assets/icons/icon-96x96.png",
+        "/ayla/assets/screenshots/desktop.png",
+        "/ayla/assets/screenshots/mobile.png",
         "/ayla/assets/shapes.svg"
       ],
       "patterns": []
@@ -95,18 +90,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ayla/assets/icon/favicon.png": "1ab9d3d8c939f4a5cf5976f8726b4f3a8a2cabd2",
-    "/ayla/assets/icons/icon-128x128.png": "5227f5ced55abfb691527aff2ba6dafffbd536a8",
-    "/ayla/assets/icons/icon-144x144.png": "a4509dfad458ef4a96236d5c012e918b628a0ed6",
-    "/ayla/assets/icons/icon-152x152.png": "625aeb6be74c4da56f9f56a6c3cbc87c28036ac5",
-    "/ayla/assets/icons/icon-192x192.png": "4db45e027de8dc3cf8c62d33304127652eb3215d",
-    "/ayla/assets/icons/icon-256x256.png": "754476b9af0b7c413fcf03440c2b3f0ae9eb250a",
-    "/ayla/assets/icons/icon-384x384.png": "1d69c06c0d981f8ae79c26ec70b631e764a3cd99",
-    "/ayla/assets/icons/icon-48x48.png": "1ab9d3d8c939f4a5cf5976f8726b4f3a8a2cabd2",
-    "/ayla/assets/icons/icon-512x512.png": "7fd841ac927995106efcad409cfab892cc40a813",
-    "/ayla/assets/icons/icon-72x72.png": "5507912fbe9a0f415ffcee45efbeaf484fa17cf8",
-    "/ayla/assets/icons/icon-96x96.png": "d88adb2468d27cdf39b691339427871fd70ed805",
-    "/ayla/assets/manifest.webmanifest": "109069a5c4380d00f0839060fcc716bd3a2c0182",
+    "/ayla/assets/icons/apple-touch-icon.png": "cc0f341f87b5d8d5608b85289af770b868625f7a",
+    "/ayla/assets/icons/favicon.png": "1ab9d3d8c939f4a5cf5976f8726b4f3a8a2cabd2",
+    "/ayla/assets/icons/icon-192x192.png": "2c4e3781267ef5b515a9ffc4c116c60c52fa2c0e",
+    "/ayla/assets/icons/icon-512x512.png": "4bb4cc824e23567d0cb8b3a4370bfcbb12b50633",
+    "/ayla/assets/manifest.webmanifest": "e47cd2593b71aa97b7fa45c2609aa65823c569ba",
+    "/ayla/assets/screenshots/desktop.png": "03d058f13108fbc7c81dc8146b6246cbe24ce917",
+    "/ayla/assets/screenshots/mobile.png": "e02f4edb593227de07b0c50596405f21470214ca",
     "/ayla/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/ayla/chunk-324WYOBX.js": "ee9658c21dab407975d096800ef464b89d5b589e",
     "/ayla/chunk-363F3LG2.js": "426ace6701bd4326f5bbc627aa41449af3c5294a",
@@ -158,7 +148,7 @@
     "/ayla/chunk-XLXNEU25.js": "0f2edf54999eca510518360ff70d8b2b8f69a51d",
     "/ayla/chunk-YDOXD4O3.js": "326f5674ae613462d7e50aa737918a05c8027bfd",
     "/ayla/chunk-Z6ARAHII.js": "ff1cc7aa62c08db77c84a9813370fa7a717f0ce4",
-    "/ayla/index.html": "f1e562dc8f3627dddc0dc937815c047c92559f04",
+    "/ayla/index.html": "db6628b3af3715c379ac447012697c926b0aaf6a",
     "/ayla/main-TBBT4FUK.js": "edf3ad328fead13183c39d004ef1dc48f16cc7be",
     "/ayla/polyfills-TDCRLYKL.js": "454f6db4230cc7ab61b24fe465dcc92bf041737d",
     "/ayla/styles-GKXR23EV.css": "aa31f133668b80db799da75512835c810a28a5ae"
