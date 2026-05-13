@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778699443775,
+  "timestamp": 1778699852926,
   "index": "/ayla/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/ayla/assets/manifest.webmanifest",
         "/ayla/chunk-324WYOBX.js",
         "/ayla/chunk-363F3LG2.js",
         "/ayla/chunk-42C7ZIID.js",
@@ -77,6 +78,14 @@
       },
       "urls": [
         "/ayla/assets/icon/favicon.png",
+        "/ayla/assets/icons/icon-128x128.png",
+        "/ayla/assets/icons/icon-144x144.png",
+        "/ayla/assets/icons/icon-152x152.png",
+        "/ayla/assets/icons/icon-192x192.png",
+        "/ayla/assets/icons/icon-384x384.png",
+        "/ayla/assets/icons/icon-512x512.png",
+        "/ayla/assets/icons/icon-72x72.png",
+        "/ayla/assets/icons/icon-96x96.png",
         "/ayla/assets/shapes.svg"
       ],
       "patterns": []
@@ -85,6 +94,15 @@
   "dataGroups": [],
   "hashTable": {
     "/ayla/assets/icon/favicon.png": "7798b8e0eb61d7375c245af78bbf5c916932bf13",
+    "/ayla/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/ayla/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/ayla/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/ayla/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/ayla/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/ayla/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/ayla/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/ayla/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/ayla/assets/manifest.webmanifest": "5a70939b75e8634692b6d6cb8e97a38d32b57cfd",
     "/ayla/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/ayla/chunk-324WYOBX.js": "ee9658c21dab407975d096800ef464b89d5b589e",
     "/ayla/chunk-363F3LG2.js": "426ace6701bd4326f5bbc627aa41449af3c5294a",
@@ -136,7 +154,7 @@
     "/ayla/chunk-XLXNEU25.js": "0f2edf54999eca510518360ff70d8b2b8f69a51d",
     "/ayla/chunk-YDOXD4O3.js": "326f5674ae613462d7e50aa737918a05c8027bfd",
     "/ayla/chunk-Z6ARAHII.js": "ff1cc7aa62c08db77c84a9813370fa7a717f0ce4",
-    "/ayla/index.html": "800f838a145fafba1b25c92c66bcefd28a4a96e6",
+    "/ayla/index.html": "f1e562dc8f3627dddc0dc937815c047c92559f04",
     "/ayla/main-TBBT4FUK.js": "edf3ad328fead13183c39d004ef1dc48f16cc7be",
     "/ayla/polyfills-TDCRLYKL.js": "454f6db4230cc7ab61b24fe465dcc92bf041737d",
     "/ayla/styles-GKXR23EV.css": "aa31f133668b80db799da75512835c810a28a5ae"
