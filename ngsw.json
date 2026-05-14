@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778737582712,
+  "timestamp": 1778787789632,
   "index": "/ayla/index.html",
   "assetGroups": [
     {
@@ -94,7 +94,7 @@
     "/ayla/assets/icons/favicon.png": "1ab9d3d8c939f4a5cf5976f8726b4f3a8a2cabd2",
     "/ayla/assets/icons/icon-192x192.png": "2c4e3781267ef5b515a9ffc4c116c60c52fa2c0e",
     "/ayla/assets/icons/icon-512x512.png": "4bb4cc824e23567d0cb8b3a4370bfcbb12b50633",
-    "/ayla/assets/manifest.webmanifest": "e47cd2593b71aa97b7fa45c2609aa65823c569ba",
+    "/ayla/assets/manifest.webmanifest": "b36496bd92f4427b59072e64e4a8f06422880615",
     "/ayla/assets/screenshots/desktop.png": "03d058f13108fbc7c81dc8146b6246cbe24ce917",
     "/ayla/assets/screenshots/mobile.png": "e02f4edb593227de07b0c50596405f21470214ca",
     "/ayla/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",

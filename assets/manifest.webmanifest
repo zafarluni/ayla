@@ -1,11 +1,14 @@
 {
   "name": "Ayla Home",
   "short_name": "Ayla",
+  "description": "Calm coordination for shared living. Reduce emotional and logistical friction through explicit ownership of tasks.",
+  "categories": ["lifestyle", "productivity", "utilities"],
   "theme_color": "#7C9CBF",
   "background_color": "#FDFCFB",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "id": "/ayla/",
+  "scope": "../",
+  "start_url": "../",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
