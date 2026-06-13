@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781369450726,
+  "timestamp": 1781378727854,
   "index": "/ayla/index.html",
   "assetGroups": [
     {
@@ -82,7 +82,6 @@
         "/ayla/chunk-JEECSH6G.js",
         "/ayla/chunk-JIPZKM5N.js",
         "/ayla/chunk-JSC7K3F6.js",
-        "/ayla/chunk-K2C2Y6NV.js",
         "/ayla/chunk-K2SKS3FB.js",
         "/ayla/chunk-K76PKNOB.js",
         "/ayla/chunk-KAE2OS74.js",
@@ -171,8 +170,9 @@
         "/ayla/chunk-YJRFTRA2.js",
         "/ayla/chunk-YY4OMC7F.js",
         "/ayla/chunk-Z6ARAHII.js",
+        "/ayla/chunk-ZGA6YNWT.js",
         "/ayla/index.html",
-        "/ayla/main-A3HWCSHR.js",
+        "/ayla/main-ZQU3J5HM.js",
         "/ayla/polyfills-TDCRLYKL.js",
         "/ayla/styles-G4NEKNQC.css"
       ],
@@ -281,7 +281,6 @@
     "/ayla/chunk-JEECSH6G.js": "f5cd5944d7cdceb1149f9bc53ef66c562fb90ef7",
     "/ayla/chunk-JIPZKM5N.js": "bdb434c822c23b642a7e3eba2254991f00daa8b4",
     "/ayla/chunk-JSC7K3F6.js": "94de18086b849d4594bc6c457a0d6ed310970dbb",
-    "/ayla/chunk-K2C2Y6NV.js": "fafc306f547ce8377cffdca679d5008646dafe3d",
     "/ayla/chunk-K2SKS3FB.js": "922d36f798e51814801bf500419ebd35a8d6dc0d",
     "/ayla/chunk-K76PKNOB.js": "565c32b8d97188343df79025f23dac4cca0adf4d",
     "/ayla/chunk-KAE2OS74.js": "e1c0246688b2f98b44a3a6f296db8ba742d0462f",
@@ -370,8 +369,9 @@
     "/ayla/chunk-YJRFTRA2.js": "8e485038d320b242f5e34159532ae05b40c6ef6f",
     "/ayla/chunk-YY4OMC7F.js": "87066392bbc20ea1c4b69c22805094741babfb12",
     "/ayla/chunk-Z6ARAHII.js": "ff1cc7aa62c08db77c84a9813370fa7a717f0ce4",
-    "/ayla/index.html": "5a132f95fb9320b65a841ccfbd78ca548ba730ac",
-    "/ayla/main-A3HWCSHR.js": "90efaba6784bd3b78c0fdb97f401cdb570b461fb",
+    "/ayla/chunk-ZGA6YNWT.js": "2f45ef3a5a53b856f6d969d42a67870a7aef82e0",
+    "/ayla/index.html": "4c5c41e53a8df6815c4c374f919f1d35d238c8d3",
+    "/ayla/main-ZQU3J5HM.js": "67d70d2bd24cf4b6dbce8208260deed13a4fabb4",
     "/ayla/polyfills-TDCRLYKL.js": "454f6db4230cc7ab61b24fe465dcc92bf041737d",
     "/ayla/styles-G4NEKNQC.css": "9d490a046747af02a6d2b6afb53e7c730e4d2ef7"
   },
