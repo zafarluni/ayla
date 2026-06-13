@@ -1,1 +1,0 @@
-import{E as i,J as o,s as r,t as e}from"./chunk-W3RCT6HS.js";import{h as t}from"./chunk-YDOXD4O3.js";function s(u,a,n){return t(this,null,function*(){try{return yield r(u.pipe(i(a),o(1),e({first:n})))}catch{return null}})}export{s as a};
