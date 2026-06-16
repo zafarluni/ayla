@@ -1,1 +1,0 @@
-import{d as n,pb as r}from"./chunk-AGCY3HBT.js";var f=(()=>{let o=class o{debug(...t){r()&&console.debug(...t)}warn(...t){r()&&console.warn(...t)}error(...t){r()&&console.error(...t)}};o.\u0275fac=function(c){return new(c||o)},o.\u0275prov=n({token:o,factory:o.\u0275fac,providedIn:"root"});let e=o;return e})();export{f as a};
